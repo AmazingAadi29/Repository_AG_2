@@ -1,5 +1,7 @@
 # Titanic Survivor Classification
-This project tackles the classic Titanic dataset from Kaggle to build a machine learning model that predicts whether a passenger survived the disaster. It begins with detailed data exploration and preprocessing, followed by building classification models using scikit-learn. The aim is to understand what factors most influenced survival and apply supervised learning techniques to generate predictions.
+
+## Project Overview
+This project uses the Titanic dataset from Kaggle to build a machine learning model that predicts whether a passenger survived the sinking of the Titanic. 
 
 ## Technologies Used
 - Python
